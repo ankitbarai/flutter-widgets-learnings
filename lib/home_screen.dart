@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body:  Center(
         child: Container(
-          height: 100,
+          height: 50,
           width: 200,
           color: Colors.black,
           margin: EdgeInsets.symmetric(horizontal: 30),
